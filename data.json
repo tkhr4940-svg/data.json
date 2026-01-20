@@ -1,0 +1,61 @@
+
+{
+  "meta": {
+    "schoolName": "北海学園札幌高校",
+    "eventName": "球技大会",
+    "tagline": "SCHOOL SPORTS FESTIVAL",
+    "heroTitleHTML": "北海学園札幌高校 <span style=\"color:var(--accent-gold)\">球技大会</span>",
+    "heroSubHTML": "仲間と全力で、笑顔で、そしてフェアに。<br>今年も熱い戦いがはじまります！",
+    "footerSchool": "北海学園札幌高校"
+  },
+  "colors": {
+    "navy": "#0C2340",
+    "gold": "#FFD84D",
+    "blue": "#43C1F2"
+  },
+  "notices": [
+    {
+      "badge": "NEW",
+      "titleHTML": "開会式は8:40開始予定です。",
+      "dateText": "6/10",
+      "datetime": "2026-06-10",
+      "bodyHTML": "体育館前に8:30集合、クラス毎に整列してください。"
+    },
+    {
+      "badge": "INFO",
+      "titleHTML": "熱中症対策のお願い。",
+      "dateText": "6/8",
+      "datetime": "2026-06-08",
+      "bodyHTML": "こまめな水分補給と帽子の着用を推奨します。体調不良時は無理をせず、すぐに教員へ。"
+    }
+  ],
+  "schedule": [
+    { "timeHTML": "08:30", "contentHTML": "集合・点呼", "placeHTML": "体育館前" },
+    { "timeHTML": "08:40", "contentHTML": "開会式", "placeHTML": "体育館" },
+    { "timeHTML": "09:10", "contentHTML": "予選ラウンド", "placeHTML": "各会場" },
+    { "timeHTML": "12:10", "contentHTML": "昼休み", "placeHTML": "各自" },
+    { "timeHTML": "13:00", "contentHTML": "決勝トーナメント", "placeHTML": "各会場" },
+    { "timeHTML": "15:30", "contentHTML": "表彰・閉会式", "placeHTML": "体育館" }
+  ],
+  "sports": [
+    { "emoji": "🏀", "nameHTML": "バスケットボール", "venueHTML": "体育館コート" },
+    { "emoji": "⚽", "nameHTML": "サッカー", "venueHTML": "グラウンド" },
+    { "emoji": "🏐", "nameHTML": "バレーボール", "venueHTML": "体育館" }
+  ],
+  "access": {
+    "mapHTML": "地図や写真をここに表示（画像 or Googleマップ埋め込みに差し替え可）",
+    "itemsHTML": [
+      "北海学園札幌高校（校内各会場）",
+      "上履き・タオル・飲み物・着替え",
+      "動きやすい服装（クラスT推奨）",
+      "貴重品は各自で管理してください"
+    ],
+    "deptHTML": "生徒指導部／体育科",
+    "contactHTML": "example@school.jp（※仮）"
+  },
+  "animation": {
+    "ballCount": 14, "sizeMin": 24, "sizeMax": 96,
+    "speedMin": 16, "speedMax": 42, "bobMin": 8, "bobMax": 26
+  }
+}
+``
